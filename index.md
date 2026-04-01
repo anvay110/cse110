@@ -2,7 +2,7 @@
 
 undergraduate student at **UCSD** majoring in _computer science_
 
-> "I'm not a pessimist. I'm an optimist by experience" - Fernando Alonso
+> _"I'm not a pessimist. I'm an optimist by experience"_ - Fernando Alonso
 
 ```
 my interests are in AI engineering, with previous experience as an author of a paper accepted to NeurIPS 2025 and current experience as a developer at the Laboratory of Emerging Intelligence (LEI) for a project focused on building a workflow assistive agentic system for UCSD's IT systems personnel
